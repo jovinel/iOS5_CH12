@@ -17,6 +17,7 @@
 		00923C1F184F1C0300A05787 /* BIDMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 00923C1E184F1C0300A05787 /* BIDMainViewController.m */; };
 		00923C22184F1C0300A05787 /* BIDFlipsideViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 00923C21184F1C0300A05787 /* BIDFlipsideViewController.m */; };
 		00923C2B184F1F3100A05787 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 00923C2A184F1F3100A05787 /* Settings.bundle */; };
+		00E4AC05185012E7006AF8CD /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 00E4AC04185012E7006AF8CD /* Icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		00923C20184F1C0300A05787 /* BIDFlipsideViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BIDFlipsideViewController.h; sourceTree = "<group>"; };
 		00923C21184F1C0300A05787 /* BIDFlipsideViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BIDFlipsideViewController.m; sourceTree = "<group>"; };
 		00923C2A184F1F3100A05787 /* Settings.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.application; path = Settings.bundle; sourceTree = "<group>"; };
+		00E4AC04185012E7006AF8CD /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 		00923C0E184F1C0300A05787 /* AppSettings */ = {
 			isa = PBXGroup;
 			children = (
+				00E4AC04185012E7006AF8CD /* Icon.png */,
 				00923C17184F1C0300A05787 /* BIDAppDelegate.h */,
 				00923C18184F1C0300A05787 /* BIDAppDelegate.m */,
 				00923C1A184F1C0300A05787 /* MainStoryboard.storyboard */,
@@ -159,6 +162,7 @@
 				00923C13184F1C0300A05787 /* InfoPlist.strings in Resources */,
 				00923C1C184F1C0300A05787 /* MainStoryboard.storyboard in Resources */,
 				00923C2B184F1F3100A05787 /* Settings.bundle in Resources */,
+				00E4AC05185012E7006AF8CD /* Icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
