@@ -18,6 +18,8 @@
 		00923C22184F1C0300A05787 /* BIDFlipsideViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 00923C21184F1C0300A05787 /* BIDFlipsideViewController.m */; };
 		00923C2B184F1F3100A05787 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 00923C2A184F1F3100A05787 /* Settings.bundle */; };
 		00E4AC05185012E7006AF8CD /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 00E4AC04185012E7006AF8CD /* Icon.png */; };
+		00E4AC0918502352006AF8CD /* rabbit.png in Resources */ = {isa = PBXBuildFile; fileRef = 00E4AC0718502352006AF8CD /* rabbit.png */; };
+		00E4AC0A18502352006AF8CD /* turtle.png in Resources */ = {isa = PBXBuildFile; fileRef = 00E4AC0818502352006AF8CD /* turtle.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +40,8 @@
 		00923C21184F1C0300A05787 /* BIDFlipsideViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BIDFlipsideViewController.m; sourceTree = "<group>"; };
 		00923C2A184F1F3100A05787 /* Settings.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.application; path = Settings.bundle; sourceTree = "<group>"; };
 		00E4AC04185012E7006AF8CD /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		00E4AC0718502352006AF8CD /* rabbit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rabbit.png; sourceTree = "<group>"; };
+		00E4AC0818502352006AF8CD /* turtle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = turtle.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +88,8 @@
 		00923C0E184F1C0300A05787 /* AppSettings */ = {
 			isa = PBXGroup;
 			children = (
+				00E4AC0718502352006AF8CD /* rabbit.png */,
+				00E4AC0818502352006AF8CD /* turtle.png */,
 				00E4AC04185012E7006AF8CD /* Icon.png */,
 				00923C17184F1C0300A05787 /* BIDAppDelegate.h */,
 				00923C18184F1C0300A05787 /* BIDAppDelegate.m */,
@@ -163,6 +169,8 @@
 				00923C1C184F1C0300A05787 /* MainStoryboard.storyboard in Resources */,
 				00923C2B184F1F3100A05787 /* Settings.bundle in Resources */,
 				00E4AC05185012E7006AF8CD /* Icon.png in Resources */,
+				00E4AC0918502352006AF8CD /* rabbit.png in Resources */,
+				00E4AC0A18502352006AF8CD /* turtle.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
